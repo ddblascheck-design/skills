@@ -17,6 +17,7 @@ npx skills add openclaw-rocks/skills --list
 | Skill | Description |
 |-------|-------------|
 | **[jobs-ive](skills/jobs-ive/)** | A Steve Jobs in your pocket. Product philosophy, design, messaging, naming, pricing, and strategic decisions. |
+| **[run](skills/run/)** | Execute commands, scripts, and workflows confidently. Debug failed runs, understand exit codes, manage environments, and make every run repeatable. |
 
 ## What Are Skills?
 
